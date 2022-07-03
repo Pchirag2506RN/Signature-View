@@ -1,0 +1,23 @@
+{
+  "name": "rn-perfect-sketch-canvas-example",
+  "description": "Example app for rn-perfect-sketch-canvas",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "@shopify/react-native-skia": "^0.1.123",
+    "react": "17.0.1",
+    "react-native": "0.64.2",
+    "valtio": "^1.6.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/runtime": "^7.12.5",
+    "babel-plugin-module-resolver": "^4.0.0",
+    "metro-react-native-babel-preset": "^0.64.0"
+  }
+}
